@@ -1,4 +1,10 @@
-RR# UCR-02-Telemetry
+This telemetry solution was developed by 6 engineers and delivered to the Ucalgary Racing Team for use on their Electric Formula Race-car in 2025. This system was jointly built by:
+- Gibran Akmal
+- Bill Thai
+- Issam Akhtar 
+- Hamza Niaz
+- Awab Khurram
+- Mohamed Elnaggar
 
 # For devs:
 When developing a new feature, make a branch titled: Feature_Name_Name
