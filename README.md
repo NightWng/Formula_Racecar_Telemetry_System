@@ -2,7 +2,7 @@ RR# UCR-02-Telemetry
 
 # For devs:
 When developing a new feature, make a branch titled: Feature_Name_Name
-For example: CAN_Transciever_Drivers_Issam
+For example: CAN_Transciever_Drivers_Gibran
 
 Always update and add documentation to the Notion to explain design decisions or any difficult to understand things
 
